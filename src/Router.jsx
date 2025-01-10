@@ -3,10 +3,11 @@ import {
     createBrowserRouter
 } from "react-router-dom";
 import "./index.css";
+import Home from "./pages/Home";
 
 export const router = createBrowserRouter([
     {
         path: "/",
-        element: <div> HI ,Rabindro , I am created a pull in rnrabi branch from main branch</div>,
+        element: <Home></Home>,
     },
 ]);
