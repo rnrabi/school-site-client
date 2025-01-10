@@ -1,0 +1,69 @@
+[
+    {
+        "class_name": "nine",
+        "year": 2025,
+        "students": [
+            {
+                "id": 1,
+                "name": "John Doe",
+                "age": 15,
+                "gender": "Male",
+                "results": {
+                    "math": 85,
+                    "english": 90,
+                    "science": 88
+                }
+            },
+            {
+                "id": 2,
+                "name": "Jane Smith",
+                "age": 14,
+                "gender": "Female",
+                "results": {
+                    "math": 78,
+                    "english": 95,
+                    "science": 80
+                }
+            },
+            {
+                "id": 3,
+                "name": "Rabi Smith",
+                "age": 24,
+                "gender": "Female",
+                "results": {
+                    "math": 78,
+                    "english": 95,
+                    "science": 80
+                }
+            }
+        ]
+    },
+    {
+        "class_name": "9th Grade",
+        "year": 2022,
+        "students": [
+            {
+                "id": 3,
+                "name": "Alice Brown",
+                "age": 14,
+                "gender": "Female",
+                "results": {
+                    "math": 82,
+                    "english": 88,
+                    "science": 84
+                }
+            },
+            {
+                "id": 4,
+                "name": "Bob Johnson",
+                "age": 15,
+                "gender": "Male",
+                "results": {
+                    "math": 90,
+                    "english": 86,
+                    "science": 91
+                }
+            }
+        ]
+    }
+]
